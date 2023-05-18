@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+}
+
+body{
+    text-align: center;
+}
+
+header{
+    background-color: black;
+    padding: 15px;   
+    color: #F8CF40;
+    font-family: 'Cinzel Decorative', cursive;  
+}
+
+header i{
+   padding: 5px 30px;
+   font-size: 1.8rem;
+}
+
+nav{
+    background-image: url(images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    color: #F8CF40;
+    padding: 5px;
+}
+
+
+
+main{
+    max-width: 450px;
+    margin: 10px auto;
+    text-align: left;
+}
+
+main p{
+    margin: 15px 0px;
+    text-indent: 30px;
+}
+
